@@ -38,7 +38,7 @@ The error persists even after refreshing the page or attempting the search at di
 **Severity:** Critical 
 ![500-INTERNAL-ERROR](https://github.com/puribogdan/bug_reports/assets/50368261/8bf9bdaa-7aef-4f93-9d02-526aee0352bc)
 
-**Title:Add to Cart Button Issue**
+**Title: Add to Cart Button Issue**
 
 **Description:**
 
