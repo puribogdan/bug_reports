@@ -70,3 +70,39 @@ This issue occurs consistently on multiple product pages.
 
 ![MacBook](https://github.com/puribogdan/bug_reports/assets/50368261/6e5abfe8-1525-4a75-b131-3fead082e7ae)
 
+**Title:**
+**Registration Failure**
+
+**Description:**
+
+When attempting to create a new user account on the e-commerce app, the registration process fails to complete successfully. After entering all the required information and clicking the "Register" button, nothing happens, and the account is not created.
+
+**Steps to Reproduce:**
+
+
+1. Navigate to the OpenCart demo website: https://demo.opencart.com/
+2. Click on “my account” and then “register”
+3. Fill in the registration form with valid information, including: First name, Last name, Email Address, Password
+4. Tick the “I have read and agree to the Privacy Policy” box
+5. Click the "Continue" button to submit the registration form.**
+
+
+**Expected Behavior:**
+
+Upon clicking the "Register" button, the e-commerce app should:
+
+Validate the entered data, checking for any errors or incomplete fields.
+
+If the data is valid, it should create a new user account and redirect the user to a confirmation page or automatically log them in.
+
+**Actual Behavior:**
+
+After clicking the "Register" button, nothing happens. There is no error message displayed, and the user is not redirected to a confirmation page. The account is not created, and no confirmation email is received.
+
+
+**Priority:** P2
+
+**Severity:** Critical 
+
+![Register-Account](https://github.com/puribogdan/bug_reports/assets/50368261/7d01f133-193e-4096-8021-7dbd76bc14fb)
+
